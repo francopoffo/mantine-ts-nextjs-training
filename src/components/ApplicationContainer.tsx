@@ -31,7 +31,7 @@ const ApplicationContainer: React.FC<{ children: JSX.Element }> = (props) => {
             style={{ display: "flex", alignItems: "center", height: "100%" }}
           >
             <Text size="lg" weight="bolder">
-              Alpacca Activity
+              Training Activity
             </Text>
           </div>
         </Header>
